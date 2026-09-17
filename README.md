@@ -9,6 +9,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/alvira100/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/alvira100/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/alvira100/LeetCode/tree/main/2810-faulty-keyboard/) | Easy |
 ## Simulation
